@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and order of His Highnes Councill in Scotland, requiring all persons to give due obedience to the justices of peace in execution of the powers and authorities given them by the instructions heereunto [sic] annexed.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05139</idno>
+            <idno type="STC">Wing S1012B</idno>
+            <idno type="STC">ESTC R183829</idno>
+            <idno type="EEBO-CITATION">51784635</idno>
+            <idno type="OCLC">ocm 51784635</idno>
+            <idno type="VID">175042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175042)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and order of His Highnes Councill in Scotland, requiring all persons to give due obedience to the justices of peace in execution of the powers and authorities given them by the instructions heereunto [sic] annexed.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iames Brown,</publisher>
+                  <pubPlace>Printed at Edinburgh, ;</pubPlace>
+                  <pubPlace>and reprinted at Aberdene, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justices of the peace --  Scotland --  Early works to 1800.</term>
+               <term>Criminal procedure --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175042:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A DECLARATION AND ORDER OF HIS HIGHNES COUNCILL IN <hi>SCOTLAND,</hi> Requiring all Perſons to give due O<g ref="char:EOLhyphen"/>bedience to the JUSTICES of Peace In Execution of the Powers and Authorities given them by the INSTRUCTIONS heereunto annexed.</p>
+            <p>Wedneſday <hi>the Twelf</hi> day <hi>of</hi> December,, 1655.</p>
+            <p>At His Highneſſe Councill in Edinburgh, ORdered, That this Declaration be forth-with Printed and Publiſhed.</p>
+            <p>EMANUELL DOWNING, <hi>Cl. of the Councill.</hi>
+            </p>
+            <p>PRINTED at <hi>Edinburgh,</hi> and Reprinted at <hi>Aberdene,</hi> by IAMES BROWN, 1656.</p>
+            <pb facs="tcp:175042:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175042:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>A DECLARATION and Order of his Highneſs Council in SCOTLAND, Requiring all Perſons to give due o<g ref="char:EOLhyphen"/>bedience to the Juſtices of Peace, in Execution of the Powers and Au<g ref="char:EOLhyphen"/>thorities given them by the Inſtru<g ref="char:EOLhyphen"/>ctions heereunto annexed.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſaid Councill having taken into their ſerious conſideration how much it may conduce to the peace and good of this Nation, That Iuſtices of Peace ſhould be ſetled and re-eſtabliſhed in every County and Shyre therof; And finding that by ſeverall Acts of the Parliament of <hi>Scotland,</hi> the ſaid Office hath been found needfull, and was appointed and eſtabli<g ref="char:EOLhyphen"/>ſhed for preſerving of the publick Peace, and ſuppreſſing and puniſhing of ſundry Miſdemeanours, have found it ne<g ref="char:EOLhyphen"/>ceſſary for the good Government of this Nation, to ap<g ref="char:EOLhyphen"/>poynt certain Perſons of Ability and Fidelity in every County and Shire in <hi>Scotland</hi> to be Iuſtices of his Highnes the Lord Protectors Peace; Which being accordinglie done: The Council have thought it fit hereby to declare, That they have given Co<g ref="char:cmbAbbrStroke">̄</g>miſsions to ſuch perſons to be Co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>miſsioners and Iuſtices of his Highneſſe Peace in the ſayd
+<pb n="4" facs="tcp:175042:3"/>
+               <!-- PDF PAGE 3 -->Counties reſpectively, and authorized them to put in exe<g ref="char:EOLhyphen"/>cution all the Powers and Authorities committed to them by certain Inſtructions which were agreed on by the Coun<g ref="char:EOLhyphen"/>cill, Printed by their Order, and are heereunto annexed. And as the Councill do expect that the Perſons intruſted, as aforeſaid, be carefull in the good diſcharge of the Truſt repoſed in them for the Peace and happineſs of the Nation; ſo the Councill will vpon all occaſions give them all due Countenance and Encouragement therein: And the Coun<g ref="char:EOLhyphen"/>cill do heereby ſtrictly require all People of this Nation, whom it may concern, to take notice and be obſervant of the ſaid Inſtructions (in what to them reſpectively apper<g ref="char:EOLhyphen"/>taineth) as the Contemners or Contraveners thereof will anſwer the contrary at their perils. And to the end that that no perſon may pretend ignorance of them, The Coun<g ref="char:EOLhyphen"/>cill do heereby Order, That this Declaration, with the ſaid printed Copies of the ſaid Inſtructions, be forthwith Pub<g ref="char:EOLhyphen"/>liſhed at the Marcate Croſs of <hi>Edinburgh,</hi> and in the head Burgh or Town of each Shire in <hi>Scotland,</hi> by the reſpective Sheriffs of the ſaid Shires.</p>
+            <closer>
+               <dateline>Given at <hi>Edinburgh</hi> 
+                  <date>the Twelfth day of <hi>December,</hi> 1655.</date> 
+                  <date>Wedneſday, the 12 day of December, 1655.</date> At His Highneſs Councill in <hi>Edinburgh.</hi>
+               </dateline>
+               <signed>ORdered, That the above Declaration be forthwith Printed and publiſhed. EMANUEL DOWNING, Cl. of the Councill.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
